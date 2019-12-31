@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_about"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="40dp"
+        android:src="@drawable/eko"/>
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nama_eko_santoso"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_below="@id/image_about"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email_ekosanto2008_bsi_ac_id"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_below="@id/nama"/>
+
+    <TextView
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/phone_wa_08999061523"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_below="@id/email"/>
+
+
+
+
+
+</RelativeLayout>

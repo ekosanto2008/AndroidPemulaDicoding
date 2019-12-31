@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Submission 1</string>
+    <string name="imagemovie">imagemovie</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="title">Title :</string>
+    <string name="overview">Overview :</string>
+    <string name="about">About</string>
+    <string name="phone_wa_08999061523">Phone/WA : 08999061523</string>
+    <string name="email_ekosanto2008_bsi_ac_id">Email : ekosanto2008@bsi.ac.id</string>
+    <string name="nama_eko_santoso">Nama : Eko Santoso</string>
+</resources>

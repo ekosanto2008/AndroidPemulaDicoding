@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Details">
+
+    <ImageView
+        android:id="@+id/detail_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/gundala"
+        android:scaleType="fitStart"
+        android:contentDescription="@string/image_detail" />
+
+    <TextView
+        android:id="@+id/detail_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="10sp"
+        android:layout_below="@id/detail_image"/>
+
+    <TextView
+        android:id="@+id/detail_overview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/overview"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="10sp"
+        android:layout_below="@id/detail_title"/>
+
+
+</RelativeLayout>
+</androidx.core.widget.NestedScrollView>
