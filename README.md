@@ -16,4 +16,4 @@ Syarat:</b>
 
 Menampilkan foto diri, nama dan email yang terdaftar di Dicoding.
 
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/g5dHWCHvHlY/hqdefault.jpg)](https://www.youtube.com/watch?v=UC1cMvuNhmFobe1yJxfqZXdA)
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/g5dHWCHvHlY/hqdefault.jpg)](https://www.youtube.com/watch?v=g5dHWCHvHlY)
