@@ -15,5 +15,3 @@ Menampilkan gambar dan informasi pada halaman detail.
 Syarat:</b>
 
 Menampilkan foto diri, nama dan email yang terdaftar di Dicoding.
-
-https://www.youtube.com/watch?v=g5dHWCHvHlY
